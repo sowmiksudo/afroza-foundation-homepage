@@ -190,7 +190,9 @@ section:nth-child(even) {
     color         : var(--green);
     padding-bottom: .7rem;
 }
-
+.volunteer {
+    font-size: 2.5rem !important;
+}
 .icons-container .icons {
     font-size  : 4.5rem;
     color      : var(--black);
